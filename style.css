@@ -1,10 +1,22 @@
-.logo{
-margin: auto;
-width: 9.5%;
-padding-left: 625px;
-padding-top: 570px;
+.image {
+    position: relative;
+    width: 27%;
+    padding-left: 500px;
+    padding-top: 120px;
+    z-index: 1;
 }
 
-.body{
- overflow: hidden;
+.logo {
+    position: fixed;
+    width: 8.5%;
+    padding-left: 630px;
+    margin-top: 600px;
+    z-index: 2;
+}
+
+
+
+
+.body {
+    overflow: hidden;
 }
