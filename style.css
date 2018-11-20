@@ -9,12 +9,32 @@
 .logo {
     position: fixed;
     width: 8.5%;
-    padding-left: 630px;
+    padding-left: 635px;
     margin-top: 600px;
     z-index: 2;
 }
 
+.inst {
+    position: absolute;
+    margin-left: -316px;
+    margin-top: 670px;
+    z-index: 3;
+    font-family: "Roboto";
+    font-size: 15px;
+    text-decoration: none;
+    color: #000000;
+}
 
+.mail {
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 162px;
+    z-index: 3;
+    font-family: "Roboto";
+    font-size: 15px;
+    text-decoration: none;
+    color: #000000;
+}
 
 
 .body {
